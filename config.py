@@ -6,8 +6,8 @@ BOT_TOKEN = "7438267281:AAHzn5fuLbWtJWtqtzXV36bN-XM0pD15a14"
 ADMIN_ID = 7891142412
 ADMIN_USERNAME = "@Officialbgmi24"
 UPI_ID = "8435010927@ybl"
-CHANNEL_URL = "https://t.me/officialBgmiturnament"
-CHANNEL_ID = "2698813027"
+CHANNEL_URL = "https://t.me/KyaTereSquadMeinDumHai"
+CHANNEL_ID = "2880573048"
 
 # MongoDB Configuration
 MONGODB_URI = "mongodb+srv://rahul7241146384:rahul7241146384@cluster0.qeaogc4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
