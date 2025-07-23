@@ -7,7 +7,7 @@ ADMIN_ID = 7891142412
 ADMIN_USERNAME = "@Officialbgmi24"
 UPI_ID = "8435010927@ybl"
 CHANNEL_URL = "https://t.me/KyaTereSquadMeinDumHai"
-CHANNEL_ID = "2880573048"
+CHANNEL_ID = "-1002880573048"
 
 # MongoDB Configuration
 MONGODB_URI = "mongodb+srv://rahul7241146384:rahul7241146384@cluster0.qeaogc4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
