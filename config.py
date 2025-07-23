@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 # Bot Configuration
-BOT_TOKEN = "7911618551:AAHzOkwAzvcLstjyUJWUFs5oaH53iRzYE7s"
+BOT_TOKEN = "7911618551:AAHs2QQ1jRjxpQC82hcHblY6O3-HsJQWgP8"
 ADMIN_ID = 7891142412
 ADMIN_USERNAME = "@Officialbgmi24"
 UPI_ID = "8435010927@ybl"
